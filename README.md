@@ -1,5 +1,7 @@
 # Welcome Folks! 👋👋
 ![](https://komarev.com/ghpvc/?username=Sukalyan2003&color=orange&style=plastic)
+<img src="https://user-images.githubusercontent.com/59078776/206177054-53b6bd65-6058-4248-9d86-35df324c1b18.jpeg" alt="My banner">
+
 My name is Sukalyan and I'm a first sem CS Student. 
 After being fascinated with tech and almost chronically online throughout my teens, now i'm here to finally work on the good stuff. 
 
