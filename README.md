@@ -6,13 +6,11 @@ My name is Sukalyan and I'm a third sem CS Student.
 After being fascinated with tech and almost chronically online throughout my teens, now i'm here to finally work on the good stuff. 
 
 ## I'm Currently Working on
-- Making a Proper blog
-- Compiling my notes for writing projects
+- Basic RAG chatbots
 
 ## I'm Currently Learning
 - Python
 - DSA
-- Basics of Web dev
 
 ## Github Stats
 
