@@ -4,7 +4,7 @@
 
 My name is Sukalyan and I'm a third sem CS Student. 
 After being fascinated with tech and almost chronically online throughout my teens, now i'm here to finally work on the good stuff. 
-
+My blog: https://sukalyanroy.hashnode.dev/
 ## I'm Currently Working on
 - Basic RAG chatbots
 
