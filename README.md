@@ -47,12 +47,12 @@ My name is Sukalyan and I'm a Final Year CS Student. After being fascinated with
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sukalyan2003&show_icons=true&theme=tokyonight&hide_border=true" alt="Sukalyan's GitHub stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukalyan2003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sukalyan2003&show_icons=true&theme=tokyonight&hide_border=true" alt="Sukalyan's GitHub stats" width="48%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sukalyan2003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sukalyan2003&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://nirzak-streak-stats.vercel.app?user=Sukalyan2003&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
 </p>
 
 ---
@@ -60,7 +60,7 @@ My name is Sukalyan and I'm a Final Year CS Student. After being fascinated with
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sukalyan2003&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies">
+  <img src="https://github-trophies.vercel.app/?username=Sukalyan2003&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies">
 </p>
 
 ---
