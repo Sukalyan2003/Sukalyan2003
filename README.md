@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sukalyan!</h1>
-<h3 align="center">A passionate CS student and developer from India</h3>
+<h3 align="center">Backend developer</h3>
 
 <p align="center">
   <a href="https://sukalyan2003.github.io/" target="_blank">
@@ -19,28 +19,30 @@
 
 ---
 
-## 👨‍💻 About Me
+  ## 👨‍💻 About Me
 
-My name is Sukalyan and I'm a Final Year CS Student. After being fascinated with tech and almost chronically online throughout my teens, now I'm here to finally work on the good stuff.
+  I'm Sukalyan Roy, a developer building toward high-performance data systems, distributed architecture, and systems programming.
 
-🌐 Check out my portfolio: **[https://sukalyan2003.github.io/](https://sukalyan2003.github.io/)**
+  My recent work includes production EEG ingestion/analysis backends for large medical datasets, an internal RAG knowledge assistant over 300+ pages of documentation, and low-level systems projects like
+  Nand2Tetris, shell scripting, and C/POSIX experiments.
 
-📝 Read my blog: **[https://sukalyanroy.hashnode.dev/](https://sukalyanroy.hashnode.dev/)**
+  🌐 Portfolio: **[https://sukalyan2003.github.io/](https://sukalyan2003.github.io/)**
+  📝 Blog: **[https://sukalyanroy.hashnode.dev/](https://sukalyanroy.hashnode.dev/)**
 
----
+  ---
 
-## 🔭 I'm Currently Working On
+  ## 🔭 I'm Currently Working On
 
-- Nand2Tetris Project
-- Backend Dev Internship
+  - Backend systems at Avinya Neurotech: EEG ingestion, analysis workflows, async jobs, streaming, Redis/PostgreSQL-backed services
+  - Nand2Tetris: building from logic gates and ALU design toward assembler/compiler-level systems understanding
+  ---
 
----
+  ## 🌱 I'm Currently Learning
 
-## 🌱 I'm Currently Learning
-
-- Python → for backend dev and ML
-- DSA
-- C based POSIX dev
+  - Distributed systems and backend performance patterns
+  - C/POSIX systems programming through shells, terminal tooling, and text editor projects
+  - DSA and system design fundamentals
+  - Practical ML/RAG workflows for useful internal tools
 
 ---
 
