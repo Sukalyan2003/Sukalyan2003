@@ -27,7 +27,7 @@
   Nand2Tetris, shell scripting, and C/POSIX experiments.
 
    Portfolio: **[https://sukalyan2003.github.io/](https://sukalyan2003.github.io/)**
-   Blog: **[https://sukalyanroy.hashnode.dev/](https://sukalyanroy.hashnode.dev/)**
+   Blog: **[https://sukalyan2003.github.io/blog](https://sukalyan2003.github.io/blog)**
 
   Most of my current engineering work is private/professional. Public repositories here include learning projects, systems programming work, and selected experiments. For detailed case studies, see my portfolio.
 
